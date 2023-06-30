@@ -1,5 +1,3 @@
-/** @jsx myJsxFactory */
-
 export function MyReport(): MyElement {
   return <MyPage />;
 }

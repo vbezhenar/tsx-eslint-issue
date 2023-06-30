@@ -2,7 +2,8 @@
   "extends": "@tsconfig/node18/tsconfig.json",
   "compilerOptions": {
     "outDir": "dist",
-    "jsx": "react"
+    "jsx": "react",
+    "jsxFactory": "myJsxFactory"
   },
   "include": ["src"]
 }
